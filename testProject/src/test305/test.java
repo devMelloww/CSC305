@@ -10,6 +10,7 @@ public class test {
 		
 		int sol = a*b+b-a;
 		System.out.println(sol);
+		System.out.println("Success!!!");
 		
 	}
 	
